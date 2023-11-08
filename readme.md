@@ -11,6 +11,6 @@
   -   Ve vytovřeném poli následně upravte **JEDEN** prvek na libovolnou hodnotu (např. initValue +1) .
   -   následně pomocí metody půlení intervalu najděte pozici prvku, který jsme změnili.
 
-https://www.youtube.com/watch?v=4cm1DowaQCA)
+https://www.youtube.com/watch?v=4cm1DowaQCA
 
 
