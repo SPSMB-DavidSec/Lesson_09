@@ -8,5 +8,7 @@
   -   
  - Metoda půlení intervalů samostatná práce  
   -   Napište funkcei generateArray(int délka, int initValue), který vytvoří pole / list o zadané velikosti obsahující na všech pozicicích stejnou hodnotu zadanou jako jeden z parametrů funkce.
-  -   
+  -   Ve vytovřeneém poli následně změnte jeden prvek na jinou libovolnou hodnotu
+  -   následně pomocí metody půlení intervalu najděte pozici prvku, který jsme změnili.
+
 
